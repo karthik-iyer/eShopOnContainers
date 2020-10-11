@@ -13,7 +13,6 @@ src/docker-compose.certificates.yml
 *.user
 *.userosscache
 *.sln.docstates
-.vscode/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -284,3 +283,4 @@ pub/
 src/**/app.yaml
 src/**/inf.yaml
 
+config.bat
