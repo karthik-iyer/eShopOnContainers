@@ -6,7 +6,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-.vscode/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -25,9 +24,6 @@ bld/
 
 # Visual Studio 2015 cache/options directory
 .vs/
-
-# Dockerfile projects folder for restore-packages script
-csproj-files/
 
 # .js files created on build:
 src/Web/WebMVC/wwwroot/js/site*
@@ -280,3 +276,4 @@ pub/
 src/**/app.yaml
 src/**/inf.yaml
 
+config.bat
